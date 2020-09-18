@@ -2,7 +2,7 @@
 
 # What is this ❔
 
-This is a shared repository and its maintenance is a collaboration effort by [Sergio Moraes](https://github.com/sergiomoraes), [Felipe Nathan](https://github.com/FelipeNathan), and [Nikolas Monteiro](https://github.com/Primuwidi).
+This is a shared repository and its maintenance is a collaboration effort by [Sergio Moraes, the God Father](https://github.com/sergiomoraes), [Felipe Nathan, the Jesus Christ](https://github.com/FelipeNathan), and [Nikolas Monteiro, the...hmm.. someone](https://github.com/Primuwidi).
 
 # External Collaboration ⚠
 
