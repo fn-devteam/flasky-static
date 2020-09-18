@@ -4,12 +4,12 @@
 
 ## Project repository for general test and development.
 
-This is a shared repository and its maintenance is a collaboration effort by ![GitHub followers](https://img.shields.io/github/followers/sergiomoraes?style=social&label=Sergio), ![GitHub followers](https://img.shields.io/github/followers/felipenathan?style=social&label=Felipe), and ![GitHub followers](https://img.shields.io/github/followers/primuwidi?style=social&label=Nikolas).
+This is a shared repository and its maintenance is a collaboration effort by [Sergio Moraes](https://github.com/sergiomoraes), [Felipe Nathan](https://github.com/FelipeNathan), and [Nikolas Monteiro](https://github.com/Primuwidi).
 
 # External Collaboration
 
 Currently, we are not looking for external collaboration but feel free to submit a Bug/Issue report if you find anything odd or out of place.
-
++SergioMoraes
 # Language and Localization
 
 This repo is bi-lingual. We can communicate in both English (en-US) or Portuguese (pt-BR) but most of the public facing content will be translated into English as rule-of-thumb.
