@@ -4,7 +4,7 @@
 
 ## Project repository for general test and development.
 
-This is a shared repository and its maintenance is a collaboration effort by ![GitHub followers](https://img.shields.io/github/followers/sergiomoraes?color=Orange&label=Sergio&logo=Github), ![GitHub followers](https://img.shields.io/github/followers/felipenathan?color=Orange&label=Felipe&logo=Github), and ![GitHub followers](https://img.shields.io/github/followers/primuwidi?color=Orange&label=Nikolas&logo=Github).
+This is a shared repository and its maintenance is a collaboration effort by ![GitHub followers](https://img.shields.io/github/followers/sergiomoraes?style=social&label=Sergio), ![GitHub followers](https://img.shields.io/github/followers/felipenathan?style=social&label=Felipe), and ![GitHub followers](https://img.shields.io/github/followers/primuwidi?style=social&label=Nikolas).
 
 # External Collaboration
 
@@ -22,4 +22,4 @@ Two of our collaborators are located in the GMT-3 timezone and one is in the GMT
 
 Our current project is directed at developing a couple of static websites using the Flask framework. They will likely be hosted on github using Github Pages. 
 
-_The 'Project' tab should have current information about the status of the projects we are working on._
+_The 'Project' tab should have current information about the status of the projects we are working on.
