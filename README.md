@@ -18,6 +18,6 @@ Two of our collaborators are located in the GMT-3 timezone and one is in the GMT
 
 ## Flask Static Sites
 
-Our current project is directed at developing a couple of static websites using the Flask framework. They will likely be hosted on github using Github Pages. 
+This project is directed at developing a couple of static websites using the Flask framework. They will likely be hosted on github using Github Pages. 
 
 _The 'Project' tab should have current information about the status of the projects we are working on._
